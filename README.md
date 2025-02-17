@@ -25,3 +25,9 @@ Here is a brief description of the files in this project:
   Generates animations to visualize the learning process of the agent.
 
 ---
+
+## Contributors
+
+This project was developed by:
+- Poonyapat Sriroth
+- Shuwei Zhao
